@@ -1,0 +1,16 @@
+body {
+    color:black;
+    background-color:white;
+    background-image:url(batiment10.png);
+    background-size: cover;
+    background-position: center;
+    align-content: center;
+    }
+
+    .form-control{
+
+        opacity: 100%;
+        background-color:rgba(255, 255, 255, 0) !important;
+        border-color:black;
+        
+    }
