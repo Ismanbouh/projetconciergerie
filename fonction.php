@@ -4,7 +4,7 @@ function connectionbd(){
     try
 
     {
-    $pdo = new PDO('mysql:host=localhost;dbname=conciergerie;port=3306;charset=utf8', 'root', '');
+    $pdo = new PDO('mysql:host=localhost;dbname=abdourazaki_conciergerie;port=3306;charset=utf8', 'abdourazaki', 'mHfV1o1QwXzr3w==');
     return $pdo;
     
     }
